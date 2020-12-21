@@ -1,8 +1,5 @@
 {
-  "name": "2012721_PJY",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/IDU-SW/2012721_PJY.git",
-  "author": "PJY <yongjune28@gamil.com>",
-  "license": "MIT"
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
 }
